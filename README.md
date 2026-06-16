@@ -1,2 +1,26 @@
-# PeacefulRoad
-PeacefulRoad is a browser-based procedural driving experience where players can explore infinite roads through beautiful dynamically generated landscapes. Featuring realistic driving mechanics, weather systems, day-night cycles, and seamless biome transitions, the game focuses on relaxation and exploration rather than competition.
+# 🚗 PeacefulRoad
+
+Drive endlessly through procedurally generated landscapes and enjoy a relaxing journey across forests, mountains, deserts, snowfields, and coastal roads.
+
+PeacefulRoad is a modern browser-based driving simulator focused on exploration, immersion, and tranquility rather than racing or competition.
+
+## Features
+
+- Infinite Procedural Roads
+- Dynamic Terrain Generation
+- Multiple Biomes
+- Day & Night Cycle
+- Dynamic Weather
+- AI Traffic
+- Multiple Vehicles
+- Photo Mode
+- High Performance Rendering
+- Browser-Based Gameplay
+
+Built with:
+- React
+- TypeScript
+- Three.js
+- React Three Fiber
+- Rapier Physics
+- Zustand
